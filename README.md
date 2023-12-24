@@ -5,16 +5,16 @@ Introducing our yoga app, crafted with React and Django for a seamless user expe
 ## Screenshots
 
 ## Home Page
-![Screenshot 2023-12-22 182657](https://github.com/Chetan4458/Yoga/assets/111554115/99e59293-992f-454c-b9e9-f601c6072d4a)
+![Screenshot 2023-12-22 182657](https://github.com/Chetan4458/Yoga/assets/111554115/12f1bdfa-71bd-43a4-bb06-99cafe7b4c65)
 
 ## Enrollment
-![Screenshot 2023-12-22 182718](https://github.com/Chetan4458/Yoga/assets/111554115/91dac021-63ef-4155-b583-77188cbee6e3)
+![Screenshot 2023-12-22 182718](https://github.com/Chetan4458/Yoga/assets/111554115/d28b3291-1c6b-4605-a069-104d1d552810)
 
 ## Unpaid Users
-![Screenshot 2023-12-22 183154](https://github.com/Chetan4458/Yoga/assets/111554115/75220270-4fda-4d21-a935-f04385550deb)
+![Screenshot 2023-12-22 183154](https://github.com/Chetan4458/Yoga/assets/111554115/b5c0bbb7-ab4b-40b2-baad-2358353bec55)
 
 ## Paid Users
-![Screenshot 2023-12-22 183223](https://github.com/Chetan4458/Yoga/assets/111554115/e3b556fd-3a5e-4b8f-a5a9-42a131f3d10f)
+![Screenshot 2023-12-22 183223](https://github.com/Chetan4458/Yoga/assets/111554115/6f3c4f1c-805b-4b19-a88f-39ac0097d7d3)
 
 
 ## ER Diagram
