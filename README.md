@@ -17,6 +17,4 @@ Introducing our yoga app, crafted with React and Django for a seamless user expe
 ![Screenshot 2023-12-22 183223](https://github.com/Chetan4458/Yoga/assets/111554115/6f3c4f1c-805b-4b19-a88f-39ac0097d7d3)
 
 
-## ER Diagram
-![ER](https://github.com/Chetan4458/Yoga/assets/111554115/1a2d7e5e-5eac-4b72-91af-797b82d45943)
 
